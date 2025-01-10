@@ -1,6 +1,6 @@
 ## Datathon Project: Sales prediction for a bakery 🥖✨ 
 
-### Overview
+## Overview
 This repository contains a notebook developed for a challenge at CodeSpace Academy based on predicting sales for a famous bakery in Málaga incorporating exogenous variables from the Meteostat API to improve forecasting accuracy.
 
 ## Objective
