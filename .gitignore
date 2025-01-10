@@ -1,0 +1,4 @@
+# ignore datathon data
+data/
+mlartifacts/
+mlruns/
