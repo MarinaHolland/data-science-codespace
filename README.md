@@ -13,7 +13,7 @@ The objective is to build a predictive model from scratch that forecasts daily s
 4. Model development: 🤖 selecting the best-performing model based on metrics. 
 5. Evaluation: 🧮 using MAE, MSE and other relevant metrics.
 
-## Tools
+## Tools 🛠️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 To install the required packages, run the following command:
@@ -21,3 +21,11 @@ To install the required packages, run the following command:
 ```bash
 pip install -r requirements.txt
 ```
+
+## About me 👋
+Hi there! I'm a Spanish teacher with a passion for data and storytelling. After some months of training I've developed skills in eda and machine learning using tools like Python and SQL.
+
+I'm excited to begin this new journey. Let’s connect and collaborate!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.https://www.linkedin.com/in/marina-fernandez-data-analyst/
+
