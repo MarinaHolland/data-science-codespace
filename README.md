@@ -27,6 +27,7 @@ Hi there! I'm a Spanish teacher with a passion for data and storytelling. After 
 
 I'm excited to begin this new journey. Let’s connect and collaborate!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.https://www.linkedin.com/in/marina-fernandez-data-analyst/) Click here to see my profile!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/marina-fernandez-data-analyst/) Click here to see my profile!
+ 
 
 
